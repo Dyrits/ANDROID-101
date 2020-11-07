@@ -12,7 +12,7 @@ fun main() {
     val year : Int = 2020 // Year of release
     val duration : Float = 3.52F // Duration in minutes
 
-// Print metadata:
+	// Print metadata:
     println("Title: " + title)
     println("Artist: " + artist)
     println("Album: " + album)
