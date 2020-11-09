@@ -1,6 +1,6 @@
 # Song
 
-## About this project
+## About this homework
 
 ### Course
 Pirple | Android 101 
@@ -55,5 +55,5 @@ Please make sure to update tests as appropriate (if any).
 V1.00 - Completed
 
 #### Last update
-05/11/2020
-(README | 05/11/2020)
+08/11/2020
+(README | 09/11/2020)

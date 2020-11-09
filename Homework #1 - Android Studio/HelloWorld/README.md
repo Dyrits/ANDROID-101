@@ -1,6 +1,6 @@
 # Hello World
 
-## About this project
+## About this homework
 
 ### Course
 Pirple | Android 101 
