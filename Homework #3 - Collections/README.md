@@ -4,7 +4,7 @@
 
 ### Course
 Pirple | Android 101 
-Android Studio ~ Homework #3:  Collections
+Android Studio ~ Homework #3: Collections
 
 ### Description (by Pirple)
 
@@ -30,4 +30,4 @@ V1.00 - Completed
 
 #### Last update
 09/11/2020
-(README | 09/11/2020)
+(README | 15/11/2020)

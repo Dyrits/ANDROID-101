@@ -1,4 +1,5 @@
 /*
+Android 101 - Kotlin Collections | Homework Assignment #3: Collections
  What is the difference between a list and an array? When would each be appropriate too use?
  A list is an immutable sequential fixed-size collection storing items. The items it contains and its sized can't be modified.
  (An immutable object is an object whose state cannot be modified after it is created.)
