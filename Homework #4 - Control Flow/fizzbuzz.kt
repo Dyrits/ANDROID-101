@@ -11,7 +11,10 @@ for (number in 1..100) {
     else if (number < 2) isPrime = false
     else {
         for (value in 2 until (Math.sqrt(number.toDouble()) + 1).toInt()) {
-            if (number % value == 0) isPrime = false
+            if (number % value == 0) {
+                isPrime = false
+                break
+            }
         }
     }
     if (isPrime) {
