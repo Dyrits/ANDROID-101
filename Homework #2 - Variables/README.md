@@ -1,4 +1,4 @@
-# Song
+# Song (Variables)
 
 ## About this homework
 
@@ -56,4 +56,4 @@ V1.00 - Completed
 
 #### Last update
 08/11/2020
-(README | 15/11/2020)
+(README | 17/11/2020)

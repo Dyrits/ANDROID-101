@@ -1,4 +1,4 @@
-# FizzBuzz
+# FizzBuzz (Control Flow)
 
 ## About this homework
 
@@ -36,4 +36,4 @@ V1.00 - Completed
 
 #### Last update
 15/11/2020
-(README | 15/11/2020)
+(README | 17/11/2020)

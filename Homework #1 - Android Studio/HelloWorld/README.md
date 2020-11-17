@@ -1,4 +1,4 @@
-# Hello World
+# Hello World (Android Studio)
 
 ## About this homework
 
@@ -32,4 +32,4 @@ V1.00 - Completed
 
 #### Last update
 02/11/2020
-(README | 02/11/2020)
+(README | 17/11/2020)
