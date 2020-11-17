@@ -27,7 +27,7 @@ fun main() {
                 "artist" -> "Artist: ${getArtist()}"
                 "album" -> "Album: ${getAlbum()}"
                 "compilation" -> "The album is ${if (getCompilation()) "a" else "not a"} compilation of songs by various artists."
-                "year" -> "Year: ${getYear()}"
+                "year" -> "Year of release: ${getYear()}"
                 "duration" -> "Duration: ${getDuration()} minutes"
                 "genre" -> "Genre: ${getGenre()}"
                 else -> "($information) Information not available"
