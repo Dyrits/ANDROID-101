@@ -16,7 +16,10 @@
 **Content:** Kotlin Classes and Objects / Homework #6: Classes and Objects
 
 ## General information
-**Details:**
+
+### Description by [Pirple](https://www.pirple.com/)
+
+#### Details:
  
 Create a class called "Vehicle" and add methods that allow you to set the "Make", "Model", "Year,", and "Weight".
 
@@ -32,7 +35,7 @@ Add a "Repair" method to either class that resets the TripsSinceMaintenance to z
 
 Create 3 different cars, using your Cars class, and drive them all a different number of times. Then print out their values for Make, Model, Year, Weight, NeedsMaintenance, and TripsSinceMaintenance
 
-**Extra Credit:**
+#### Extra Credit:
 
 Create a Planes class that is also a subclass of Vehicle. Add methods to the Planes class for Flying and Landing (similar to Driving and Stopping), but different in one respect: Once the NeedsMaintenance boolean gets set to true, any attempt at flight should be rejected (return false), and an error message should be printed saying that the plane can't fly until it's repaired.
 
